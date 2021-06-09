@@ -44,7 +44,7 @@ k = c.K #data bits need to be a multiple of k in order to do LDPC encoding/Decod
 
 
 # TO-DO: New Constants.
-pilot_tones_start_index = 1
+pilot_tones_start_index = 0
 pilot_tones_end_index = 1018
 pilot_tones_step = 8
 first_frequency_bin = 49
